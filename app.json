@@ -2,7 +2,7 @@
     "name": "Discord Bot",
     "description": "A Discord bot.",
     "repository": "https://github.com/contejus/DiscordBotTemplateHeroku",
-    "logo": "https://github.com/contejus/DiscordBotTemplate/blob/master/logo.png?raw=true",
+    "logo": "https://raw.githubusercontent.com/contejus/DiscordBotTemplateHeroku/master/logo.png",
     "keywords": ["discord", "bot", "discord.py"],
     "env": {
         "DISCORD_TOKEN": {
